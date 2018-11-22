@@ -1,0 +1,11 @@
+C:\Users\rportal\Documents\GitHub\ASP.NET Core MVC  Authentication and Role Based  Authorisation  with Identity\C#\src\IdentitySampleApplication\bin\Debug\netcoreapp1.1\IdentitySampleApplication.deps.json
+C:\Users\rportal\Documents\GitHub\ASP.NET Core MVC  Authentication and Role Based  Authorisation  with Identity\C#\src\IdentitySampleApplication\bin\Debug\netcoreapp1.1\IdentitySampleApplication.runtimeconfig.json
+C:\Users\rportal\Documents\GitHub\ASP.NET Core MVC  Authentication and Role Based  Authorisation  with Identity\C#\src\IdentitySampleApplication\bin\Debug\netcoreapp1.1\IdentitySampleApplication.runtimeconfig.dev.json
+C:\Users\rportal\Documents\GitHub\ASP.NET Core MVC  Authentication and Role Based  Authorisation  with Identity\C#\src\IdentitySampleApplication\bin\Debug\netcoreapp1.1\IdentitySampleApplication.dll
+C:\Users\rportal\Documents\GitHub\ASP.NET Core MVC  Authentication and Role Based  Authorisation  with Identity\C#\src\IdentitySampleApplication\bin\Debug\netcoreapp1.1\IdentitySampleApplication.pdb
+C:\Users\rportal\Documents\GitHub\ASP.NET Core MVC  Authentication and Role Based  Authorisation  with Identity\C#\src\IdentitySampleApplication\obj\Debug\netcoreapp1.1\IdentitySampleApplication.csprojAssemblyReference.cache
+C:\Users\rportal\Documents\GitHub\ASP.NET Core MVC  Authentication and Role Based  Authorisation  with Identity\C#\src\IdentitySampleApplication\obj\Debug\netcoreapp1.1\IdentitySampleApplication.csproj.CoreCompileInputs.cache
+C:\Users\rportal\Documents\GitHub\ASP.NET Core MVC  Authentication and Role Based  Authorisation  with Identity\C#\src\IdentitySampleApplication\obj\Debug\netcoreapp1.1\IdentitySampleApplication.AssemblyInfoInputs.cache
+C:\Users\rportal\Documents\GitHub\ASP.NET Core MVC  Authentication and Role Based  Authorisation  with Identity\C#\src\IdentitySampleApplication\obj\Debug\netcoreapp1.1\IdentitySampleApplication.AssemblyInfo.cs
+C:\Users\rportal\Documents\GitHub\ASP.NET Core MVC  Authentication and Role Based  Authorisation  with Identity\C#\src\IdentitySampleApplication\obj\Debug\netcoreapp1.1\IdentitySampleApplication.dll
+C:\Users\rportal\Documents\GitHub\ASP.NET Core MVC  Authentication and Role Based  Authorisation  with Identity\C#\src\IdentitySampleApplication\obj\Debug\netcoreapp1.1\IdentitySampleApplication.pdb
